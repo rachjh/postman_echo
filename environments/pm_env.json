@@ -1,0 +1,29 @@
+{
+	"id": "63e1d9f9-02cc-47cc-ac3d-117e91b1bcde",
+	"name": "paypalEx",
+	"values": [
+		{
+			"key": "clientId",
+			"value": "apple",
+			"enabled": true
+		},
+		{
+			"key": "clientSecret",
+			"value": "orange",
+			"enabled": true
+		},
+		{
+			"key": "encodedValue",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "accessToken",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-06-30T14:43:18.109Z",
+	"_postman_exported_using": "Postman/7.27.0"
+}
